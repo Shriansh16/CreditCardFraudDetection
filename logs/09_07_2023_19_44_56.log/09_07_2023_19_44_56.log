@@ -1,0 +1,17 @@
+[ 2023-09-07 19:44:56,480 ] 157 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2023-09-07 19:44:56,863 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-07 19:44:56,868 ] 187 werkzeug - INFO -  * Debugger PIN: 111-607-179
+[ 2023-09-07 19:45:44,531 ] 187 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2023 19:45:44] "GET / HTTP/1.1" 200 -
+[ 2023-09-07 19:45:51,058 ] 187 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2023 19:45:51] "GET /predict HTTP/1.1" 200 -
+[ 2023-09-07 19:45:51,347 ] 187 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2023 19:45:51] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[ 2023-09-07 19:45:51,522 ] 187 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2023 19:45:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2023-09-07 19:47:12,722 ] 51 root - INFO - PREDICTIONS COMPLETED
+[ 2023-09-07 19:47:12,723 ] 26 root - INFO - prediction completed. Downloading prediction file.
+[ 2023-09-07 19:47:12,734 ] 187 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2023 19:47:12] "POST /predict HTTP/1.1" 200 -
+[ 2023-09-07 19:47:55,407 ] 187 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2023 19:47:55] "GET / HTTP/1.1" 200 -
+[ 2023-09-07 19:48:01,866 ] 187 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2023 19:48:01] "GET /predict HTTP/1.1" 200 -
+[ 2023-09-07 19:48:01,897 ] 187 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2023 19:48:01] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[ 2023-09-07 19:48:01,901 ] 187 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2023 19:48:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2023-09-07 19:48:07,930 ] 51 root - INFO - PREDICTIONS COMPLETED
+[ 2023-09-07 19:48:07,931 ] 26 root - INFO - prediction completed. Downloading prediction file.
+[ 2023-09-07 19:48:07,934 ] 187 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2023 19:48:07] "POST /predict HTTP/1.1" 200 -

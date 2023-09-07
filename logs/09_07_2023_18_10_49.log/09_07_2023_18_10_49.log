@@ -1,0 +1,8 @@
+[ 2023-09-07 18:10:49,914 ] 157 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2023-09-07 18:10:50,321 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-07 18:10:50,324 ] 187 werkzeug - INFO -  * Debugger PIN: 111-607-179
+[ 2023-09-07 18:10:50,837 ] 187 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2023 18:10:50] "GET / HTTP/1.1" 200 -
+[ 2023-09-07 18:10:56,416 ] 187 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2023 18:10:56] "GET /predict HTTP/1.1" 200 -
+[ 2023-09-07 18:10:56,615 ] 187 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2023 18:10:56] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[ 2023-09-07 18:10:56,876 ] 187 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2023 18:10:56] "GET /static/css/style.css HTTP/1.1" 200 -
+[ 2023-09-07 18:11:31,306 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\Shrian Singh\\anaconda3\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py', reloading
