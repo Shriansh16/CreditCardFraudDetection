@@ -1,0 +1,10 @@
+[ 2023-09-08 11:15:41,018 ] 157 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2023-09-08 11:15:41,497 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-08 11:15:41,504 ] 187 werkzeug - INFO -  * Debugger PIN: 111-607-179
+[ 2023-09-08 11:15:47,782 ] 187 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2023 11:15:47] "GET / HTTP/1.1" 200 -
+[ 2023-09-08 11:15:52,521 ] 187 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2023 11:15:52] "GET /predict HTTP/1.1" 200 -
+[ 2023-09-08 11:15:52,789 ] 187 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2023 11:15:52] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[ 2023-09-08 11:15:53,014 ] 187 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2023 11:15:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2023-09-08 11:16:12,539 ] 51 root - INFO - PREDICTIONS COMPLETED
+[ 2023-09-08 11:16:12,540 ] 26 root - INFO - prediction completed. Downloading prediction file.
+[ 2023-09-08 11:16:12,549 ] 187 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2023 11:16:12] "POST /predict HTTP/1.1" 200 -
